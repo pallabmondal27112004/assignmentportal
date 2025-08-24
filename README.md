@@ -39,18 +39,6 @@ Supports **Windows / macOS / Linux**.
 
 ---
 
-## 🖼️ Screenshots
-
-> Replace the links with your own GitHub issue/attachment URLs or local images in `assets/readme/`.
-
-### Dashboard
-![Dashboard](https://github.com/user-attachments/assets/your-dashboard-image-id)
-
-### Assignment Details
-![Assignment Details](https://github.com/user-attachments/assets/your-details-image-id)
-
-### Upload / Download
-<img src="assets/readme/upload-dialog.png" width="700" alt="Upload Dialog" />
 
 ---
 
