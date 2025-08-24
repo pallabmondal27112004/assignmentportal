@@ -4,7 +4,7 @@ A cross-platform **desktop** application built with **Flutter** for managing cou
 Teachers can **push (upload/publish)** assignments; students can **view & download** submissions and upload their work.  
 Supports **Windows / macOS / Linux**.
 
-![App Preview](https://github.com/user-attachments/assets/your-image-id-here)
+![App Preview](https://github.com/user-attachments/assets/511f72d8-839e-4a1e-87ce-509917a67f84)
 
 > Tip: If you prefer a local image instead of a hosted one, replace the line above with:
 > `<img src="assets/readme/cover.png" width="900" alt="Assignment Portal Preview" />`
